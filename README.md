@@ -19,12 +19,13 @@
 </ul>
 <p>3)&nbsp; 確定你的unity環境對android環境及VR的支援</p>
 <ul>
- <li><a href="https://github.com/googlevr/gvr-unity-sdk/releases">下載 Google VR package</a>&nbsp;</li>
+ <li><a href="https://github.com/googlevr/gvr-unity-sdk/releases">下載 Google VR package，並匯入至unity 專案中</a>&nbsp;</li>
 <li><a href="https://youtu.be/lU1XBhk9NCI">參考：Basics of Cardboard VR Game in Unity - Google VR Tutorial</a>&nbsp;</li>
 </ul>
 <p>&nbsp;</p>
 <p>4) 載入google VR的package，並有簡單的互動：</p>
 <ul>
+ <li>建議：可以在google 或 youtube 中，打入google cardboard unity tutorial</li>
 <li>參考：<a href="https://youtu.be/GB32rWVVNs0">https://youtu.be/GB32rWVVNs0</a>&nbsp;</li>
 </ul>
 <p>5) 最後可將匯出的SDK在自己的手機執行並看到。</p>
