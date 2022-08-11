@@ -4,7 +4,7 @@
 <p><a href="https://youtu.be/BBHVf4lSe94">https://youtu.be/BBHVf4lSe94</a> 雖然是紙板，但已經是2.0</p>
 <h1 style="color: #5e9ca0;">試著看看跑一下現成的google cardboard app 在手機上</h1>
 <p><a href="https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo">https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo</a>&nbsp;</p>
-<h1 style="color: #5e9ca0;">中間的每個步驟，都有可能會出現問題。可以記錄下來你的解決。</h1>
+<h1 style="color: #5e9ca0;">開發：中間的每個步驟，都有可能會出現問題。可以記錄下來你的解決。</h1>
 <p>1)建構環境</p>
 <ul>
 <li>安裝<span style="background-color: #ffff00;">unity</span>(因為google VR的支援版本限制，可能要2019.3 或 2019.4(LTS)要試試最後是否呈現) <br />及 <span style="background-color: #ffff00;">visual studio</span> (程式腳本編輯), <span style="background-color: #ffff00;">android</span>環境: <br />安裝unity hub後，選擇要的unity版本，以及開發環境選擇要visual studio, 以及android, window環境模組</li>
