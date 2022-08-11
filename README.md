@@ -19,6 +19,7 @@
 </ul>
 <p>3)&nbsp; 確定你的unity環境對android環境及VR的支援</p>
 <ul>
+ <li><a href="https://github.com/googlevr/gvr-unity-sdk/releases">下載 Google VR package</a>&nbsp;</li>
 <li><a href="https://youtu.be/lU1XBhk9NCI">參考：Basics of Cardboard VR Game in Unity - Google VR Tutorial</a>&nbsp;</li>
 </ul>
 <p>&nbsp;</p>
